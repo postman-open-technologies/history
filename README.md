@@ -69,8 +69,8 @@ I am increasingly finding myself citing this timeline, so I wanted to begin publ
 - 1961 - Computer Time Sharing
 - 1962 - Telstar satellite transmits the first TV picture
 - 1962 - Database
-- 1963 - Hypertext
-- 1963 - Hypermedia
+- 1963 - Hypertext ([Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson))
+- 1963 - Hypermedia ([Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson))
 - 1964 - Mouse
 - 1964 - GUI
 - 1964 - Electronic File System
@@ -80,7 +80,9 @@ I am increasingly finding myself citing this timeline, so I wanted to begin publ
 - 1966 - Xerox unveils the first fax machine
 - 1966 - Michigan Educational Research Information Triad (MERIT) 
 - 1967 - First ATM is installed in London
+- 1967 - Melvin Conway introduces what is later called [Conway's Law](https://en.wikipedia.org/wiki/Conway's_law)
 - 1968 - Multiplexing
+- 1968 - "[The Mother of All Demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)" by Douglas Engelbart
 - 1969 - UNIX
 - 1969 - Moon Landing
 - 1969 - Mass produced software components By McIlroy, Malcolm Douglas
@@ -108,6 +110,7 @@ I am increasingly finding myself citing this timeline, so I wanted to begin publ
 - 1975 - ARPANET Has 57 Modes
 - 1975 - Microsoft
 - 1975 - Altair 8080
+- 1975 - First Edition of Fred Brooks' [Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) published
 - 1976 - Entity-Relationship Databases
 - 1976 - Apple
 - 1976 - CYCLADES Computer Network
@@ -157,6 +160,7 @@ I am increasingly finding myself citing this timeline, so I wanted to begin publ
 - 1994 - Netscape Navigator
 - 1994 - Uniform Resource Locator (URL)
 - 1994 - MySQL
+- 1994 - "Design Patterns" book, by the "Gang of Four" [published](https://en.wikipedia.org/wiki/Design_Patterns); includes axioms like "Program to an interface, not an implementation"
 - 1995 - Apache HTTP Server
 - 1995 - Internet Explorer
 - 1995 - Microsoft Internet Information Services (IIS)
@@ -205,7 +209,7 @@ I am increasingly finding myself citing this timeline, so I wanted to begin publ
 - 2006 - Amazon EC2
 - 2006 - Twitter
 - 2006 - Mashery
-- 2006 - OAuth
+- 2006 - OAuth 1.0 ([final draft released December, 2007](https://en.wikipedia.org/wiki/OAuth#History))
 - 2007 - iPhone
 - 2007 - Twilio
 - 2008 - GitHub
@@ -226,22 +230,25 @@ I am increasingly finding myself citing this timeline, so I wanted to begin publ
 - 2011 - Fitbit
 - 2011 - Apiary + API Blueprint
 - 2011 - Stripe
-- 2011 - MIcroservices
+- 2011 - Microservices
 - 2011 - Websockets 
 - 2011 - Kafka
-- 2011 - Steve Yegge AWS Rant
+- 2011 - [Steve Yegge AWS Rant](https://gist.github.com/chitchcock/1281611)
 - 2011 - Fast Healthcare interoperability Resources (FHIR)
 - 2012 - President Obama Federal Government API Mandate
+- 2012 - [OAuth 2.0](https://en.wikipedia.org/wiki/OAuth#History)
 - 2012 - Twitter Quadrant Post
 - 2012 - API Strategy & Practice Conference
 - 2012 - APIDays Conference
 - 2013 - Slack
 - 2013 - Google Reader Shutdown
 - 2014 - Kubernetes
+- 2014 - [James Lewis and Martin Fowler popularize the microservice architectural pattern](https://martinfowler.com/articles/microservices.html)
 - 2014 - Uber
 - 2014 - Postman
 - 2014 - Spotify
 - 2014 - Serverless
+- 2014 - [ESPN ends its public API program, signaling broader shifts in API strategies](https://www.programmableweb.com/news/espn-decides-to-shut-down-its-public-api/2014/08/13)
 - 2015 - OpenAPI
 - 2015 - gRPC
 - 2015 - JSON Web Token (JWT)
